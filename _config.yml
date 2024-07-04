@@ -105,3 +105,4 @@ deploy:
 disqus:
   enable: true
   shortname: algosmash
+  count: true
