@@ -106,3 +106,6 @@ disqus:
   enable: true
   shortname: algosmash
   count: true
+disqus_shortname: algosmash
+comments:
+  active: disqus
