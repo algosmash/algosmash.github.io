@@ -111,3 +111,7 @@ disqus:
 disqus_shortname: algosmash
 comments:
   active: disqus
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
