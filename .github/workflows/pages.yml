@@ -35,6 +35,8 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+      - name: Copy Google verification file
+        run: cp source/googlec8204b642176afaf.html public/
   deploy:
     needs: build
     permissions:
